@@ -1,0 +1,38 @@
+{
+<<<<<<< HEAD
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "dev":"nodemon Server.js",
+=======
+  "name": "mern-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+>>>>>>> d18839360186cc38658f5647c5d6dd5002bbd3c8
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+<<<<<<< HEAD
+    "dns": "^0.2.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.8.1",
+=======
+    "bcrypt": "^6.0.0",
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.9.1",
+>>>>>>> d18839360186cc38658f5647c5d6dd5002bbd3c8
+    "nodemon": "^3.1.14"
+  }
+}
